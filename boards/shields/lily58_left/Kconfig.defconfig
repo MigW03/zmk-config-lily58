@@ -1,5 +1,0 @@
-if SHIELD_LILY58_LEFT
-
-CONFIG_ZMK_KEYBOARD_NAME="lily58_left"
-
-endif
